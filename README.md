@@ -11,14 +11,20 @@ LigeX-AI is an AI-native Life OS focused on:
 - adaptive learning
 - career intelligence
 
+## Demo
+[![Watch the LigeX-AI demo](video-cover.png)](https://www.dropbox.com/scl/fi/x7iwex0st0ke8rc4w8zc0/LigeX-AI-video.mp4?rlkey=j9ccfldefxh75rk1lxjxlejul&st=u64iwj3w&dl=0)
+
+## Public Materials
+- [Project Overview PDF](info_LigeX_AI.pdf)
+
 ## Repository Purpose
-This repository is intended to present the project publicly without exposing the private source code.
+This repository presents the project publicly without exposing the private source code.
 
 ## What is Public Here
-- project overview
-- selected screenshots
-- public materials
-- external demo or presentation links
+- product overview
+- selected public materials
+- demo access
+- project updates
 
 ## What is Private
 - source code
@@ -26,9 +32,6 @@ This repository is intended to present the project publicly without exposing the
 - core architecture
 - proprietary logic
 - environment configuration
-
-## Public Material
-[info LigeX AI.pdf](https://github.com/user-attachments/files/26322336/info.LigeX.AI.pdf)
 
 ## Status
 Private development in progress.
