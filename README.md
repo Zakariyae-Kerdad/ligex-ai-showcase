@@ -11,6 +11,11 @@ LigeX-AI is an AI-native Life OS focused on:
 - adaptive learning
 - career intelligence
 
+## Development Status
+LigeX-AI has been under active development for more than a year.
+
+A significant portion of the work was done privately before the project was uploaded to GitHub. As a result, the public GitHub activity does not represent the full product development timeline.
+
 ## Demo
 [![Watch the LigeX-AI demo](video-cover.png)](https://www.dropbox.com/scl/fi/x7iwex0st0ke8rc4w8zc0/LigeX-AI-video.mp4?rlkey=j9ccfldefxh75rk1lxjxlejul&st=u64iwj3w&dl=0)
 
